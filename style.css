@@ -1,0 +1,9 @@
+nav.menu{
+    background-color: transparent;
+}
+.fondo{
+    background-image: url(stuff/NBA-2K21_PORTADA.jpg);
+    background-size: cover;
+    background-position: top center;
+    padding: 20% 20% 20% 20%;
+}
